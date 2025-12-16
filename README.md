@@ -2,16 +2,16 @@
 <h3 align="center">Cloud • CI/CD • Automation</h3>
 
 <p align="center">
-  <i>Focused on cloud infrastructure, CI/CD, and automation.</i>
+  <i>Working with cloud platforms, CI/CD pipelines, and automation tools.</i>
 </p>
 
 ---
 
 ## About Me
-- Entry-level DevOps professional with hands-on exposure to CI/CD pipelines
-- Interested in cloud infrastructure, automation, and deployments
-- Experience with AWS, Jenkins, Docker, and SonarQube
-- Comfortable with Bash, Python, and basic web technologies
+- Entry-level DevOps professional with hands-on exposure to CI/CD pipelines  
+- Interested in cloud infrastructure, automation, and deployment workflows  
+- Experience working with AWS, Jenkins, Docker, and SonarQube  
+- Comfortable with Bash, Python, and basic web technologies  
 
 ---
 
@@ -30,7 +30,7 @@
 ## DevOps Tech Stack
 
 ### ☁️ Cloud
-![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Amazon Web Services](https://img.shields.io/badge/Amazon%20Web%20Services-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ---
 
@@ -46,7 +46,7 @@
 ---
 
 ### 🧑‍💻 Scripting & Programming
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![GNU Bash](https://img.shields.io/badge/GNU%20Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
@@ -59,5 +59,9 @@
 ---
 
 ### 🗄️ Database
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+⭐ *Continuously learning and improving DevOps skills.*
 
