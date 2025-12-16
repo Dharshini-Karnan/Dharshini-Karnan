@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dharshini Karnan</h1>
+<h1 align="center">Hi, I'm Dharshini Karnan</h1>
 <h3 align="center">Cloud • CI/CD • Automation</h3>
 
 <p align="center">
@@ -8,7 +8,7 @@
 ---
 
 ## About Me
-- Entry-level DevOps professional with hands-on exposure to CI/CD pipelines  
+- Entry-level DevOps professional with hands-on experience in CI/CD pipelines  
 - Interested in cloud infrastructure, automation, and deployment workflows  
 - Experience working with AWS, Jenkins, Docker, and SonarQube  
 - Comfortable with Bash, Python, and basic web technologies  
@@ -16,7 +16,7 @@
 ---
 
 ## Connect With Me
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/dharshini-karnan-355704258/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
